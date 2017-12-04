@@ -7,8 +7,6 @@ html, body {
 
 body {
   background-color: #FF5733
-  background-size: cover;
-  background-attachment: fixed;
   font-family: Courier, Arial, sans-serif;
   font-size: 100%;
 }
